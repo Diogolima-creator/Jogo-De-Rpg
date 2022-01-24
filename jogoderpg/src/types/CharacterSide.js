@@ -1,0 +1,1 @@
+export const CharacterSides = 'down' | 'left' | 'up' | 'right';
