@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jogo-De-Rpg/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Jogo-De-Rpg/static/js/main.cee72fab.chunk.js",
+    "main.js.map": "/Jogo-De-Rpg/static/js/main.cee72fab.chunk.js.map",
+    "runtime-main.js": "/Jogo-De-Rpg/static/js/runtime-main.26df2d0f.js",
+    "runtime-main.js.map": "/Jogo-De-Rpg/static/js/runtime-main.26df2d0f.js.map",
+    "static/js/2.3398e0cd.chunk.js": "/Jogo-De-Rpg/static/js/2.3398e0cd.chunk.js",
+    "static/js/2.3398e0cd.chunk.js.map": "/Jogo-De-Rpg/static/js/2.3398e0cd.chunk.js.map",
+    "static/js/3.0a052c19.chunk.js": "/Jogo-De-Rpg/static/js/3.0a052c19.chunk.js",
+    "static/js/3.0a052c19.chunk.js.map": "/Jogo-De-Rpg/static/js/3.0a052c19.chunk.js.map",
+    "index.html": "/Jogo-De-Rpg/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Jogo-De-Rpg/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3398e0cd.chunk.js.LICENSE.txt": "/Jogo-De-Rpg/static/js/2.3398e0cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26df2d0f.js",
+    "static/js/2.3398e0cd.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cee72fab.chunk.js"
+  ]
+}
