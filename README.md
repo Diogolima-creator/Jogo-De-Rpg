@@ -22,11 +22,6 @@ Instale meu projeto usando gitBash e com npm
   npm install
   npm start
 ```
-    
-## Demonstração
-
-![App Screenshot](https://im.ezgif.com/tmp/ezgif-1-476bbacea8.gif)
-
 
 ## Aprendizados
 
